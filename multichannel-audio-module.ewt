@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <configuration>
+    <name>Debug</name>
+    <toolchain>
+      <name>STM8</name>
+    </toolchain>
+    <debug>1</debug>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <toolchain>
+      <name>STM8</name>
+    </toolchain>
+    <debug>0</debug>
+  </configuration>
+  <file>
+    <name>$PROJ_DIR$\src\clk.c</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\src\clk.h</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\src\flash.c</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\src\flash.h</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\src\gpio.c</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\src\gpio.h</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\src\i2c.c</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\src\i2c.h</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\src\int.c</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\src\int.h</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\src\main.c</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\src\main.h</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\src\stm8s.h</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\src\tim4.c</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\src\tim4.h</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\src\uart.c</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\src\uart.h</name>
+  </file>
+</project>
+
+
